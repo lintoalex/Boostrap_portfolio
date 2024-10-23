@@ -1,0 +1,163 @@
+
+body{
+    width: 730px;
+    height: 100%;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact{
+    font-weight: bold;
+    color: brown;
+    padding-left: 4%;
+
+}
+.container{
+    margin-top: 0px;
+    padding: 2px;
+    
+}
+.child1{
+    width:160px;
+    height: 35px;
+    padding-left: 4%;
+    font-size: 14px;
+    margin-top: 20px;
+}
+    
+.child2{
+    width:150px;
+    height: 35px;
+    padding-left: 4%;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.child{
+    margin-top: 20px;
+    height: 4px;
+    padding-left: 4%;
+    font-size: 14px;
+}
+.date{
+    margin-top: 10px;
+    height: 7px;
+    padding-left: 4%;
+    font-size: 14px;
+
+}
+.skill1{
+    padding-bottom: 4px;
+    padding-left: 5%;
+}
+.computer{
+    padding-bottom: 4px;
+    padding-left: 5%;
+}
+.languague{
+    padding-bottom: 5px;
+    padding-left: 5%;
+}
+.skill{
+    padding-bottom: 4px;
+    padding-top: 5px;
+    font-weight: bold;
+    color: brown;
+    padding-left: 4%;
+
+}
+.head-comp{
+    padding-bottom: 8px;
+    padding-left: 4%;
+    padding-top: 5px;
+    font-weight: bold;
+    color: brown;
+}
+.head{
+    padding-left: 5%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-weight: bold;
+    color: brown;
+
+}
+.personal{
+    margin-top: -25px;
+    font-weight: bold;
+    color: brown;
+    padding-left: 4%;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height: 70px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ff9671;
+
+
+}
+.border-object{
+    padding-left: 95px;
+    display: grid;
+    
+    
+}
+.objective{
+    margin-top: -645px;
+    margin-left: 36%;
+    font-weight: bold;
+    color: brown;
+   
+}
+.objective1{
+    margin-top: -610px;
+    width: 60%;
+    padding-left: 36%;
+}
+    
+.education{
+    padding-left: 45%;
+    margin-top: -540px;
+    font-weight: bold;
+    color: brown; 
+}
+
+.education1{
+    padding-left: 45%;
+    width: 50%;
+    
+}
+.projects{
+    padding-left: 45%;
+}
+.child-color{
+    font-weight: bold;
+    color: brown;
+}
+.Certification{
+    padding-left: 45%;
+    
+}
+.child-bg{
+    height: 50%;
+}
+.bg1{
+    width:250px;
+}
+.color-1{
+    font-weight: bold;
+    color: brown;
+
+}
+
+.child-bg1{
+    width: 95%;
+}
+.child-bg2{
+    width: 95%;
+}
